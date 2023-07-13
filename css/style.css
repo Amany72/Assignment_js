@@ -1,0 +1,27 @@
+#demo{
+ width: 100%;
+ 
+}
+.content{
+    text-align: center;
+}
+.content h1{
+   font-size: 80px;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.content p{   
+font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.content button{
+    background-color:blue;
+    color: aliceblue;
+    width: 280px;
+    height: 75px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    transition: 0.3s all;
+}
+.content button:hover{
+    background-color:green ;
+}
